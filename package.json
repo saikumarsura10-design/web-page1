@@ -1,0 +1,23 @@
+{
+  "name": "web-page1",
+  "version": "1.0.0",
+  "description": "Sai Kumar Sura - Data Engineer Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikumarsura10-design/web-page1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikumarsura10-design/web-page1/issues"
+  },
+  "homepage": "https://github.com/saikumarsura10-design/web-page1#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
